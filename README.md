@@ -207,20 +207,13 @@ collegevotingsystem/
 
 ## 📸 Screenshots
 
-> Screenshots showcase the main pages of the application.
+| 🔐 Login Page | 🏠 Admin Dashboard |
+|:-------------:|:-----------------:|
+| ![Login Page](screenshots/login_page.png) | ![Admin Dashboard](screenshots/admin_dashboard.png) |
 
-<details>
-<summary>Click to expand screenshots</summary>
-
-| Login Page | Admin Dashboard |
-|:----------:|:---------------:|
-| *Coming soon* | *Coming soon* |
-
-| Student Portal | Analytics |
-|:--------------:|:---------:|
-| *Coming soon* | *Coming soon* |
-
-</details>
+| ➕ Add Candidate | |
+|:----------------:|:-:|
+| ![Add Candidate](screenshots/add_candidate.png) | |
 
 ---
 
